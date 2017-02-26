@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://hot.haima.me/infinite/201611/160e/com.kiloo.subwaysurfers_1.51.0_20161116171736_1_t8k3ue.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://is1.mzstatic.com/image/thumb/Purple71/v4/a2/30/7b/a2307b14-a746-5aca-4a7d-dde0f94807db/source/114x114bb.jpg</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>enjoy.iresignos.subway</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Subway Surfers Hacked by iResignOS</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://hot.haima.me/infinite/201611/16ae/com.koplagames.kopla01_1.4.5_20161116171344_1_t8k3ue.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://is4.mzstatic.com/image/thumb/Purple71/v4/f1/75/86/f17586c5-088d-8fe9-1dbb-74f567a0d25e/source/114x114bb.jpg</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>enjoy.iresignos.subway</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>title</key>
+               <string>Nonstop Knight Hacked by iResignOS</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
